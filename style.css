@@ -4,7 +4,9 @@ h1{
 
 p{
     color: green;
+    background-color: grey;
 }
 h3 {
     color: greenyellow;
+    font-weight: 400;
 }
